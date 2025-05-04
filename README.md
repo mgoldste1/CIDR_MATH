@@ -1,7 +1,7 @@
 # CIDR_MATH
 CIDR notation for "/25" - "/30"
 
-The IPs in the range area are the usable ones.
+Look at the readme.md directly if you want to see all the content without it being clipped on the right.
 
 # 25
 ```
